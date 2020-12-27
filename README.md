@@ -1,5 +1,7 @@
 # An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department
 
+[![DOI](https://zenodo.org/badge/309754870.svg)](https://zenodo.org/badge/latestdoi/309754870)
+
 ## Introduction
 This code is an implementation of the AI system as described in [our paper](https://arxiv.org/abs/2008.01774). The overall structure of the proposed AI system is illustrated in the figure below. In this repository, we include the implementation for COVID-GMIC, COVID-GMIC-DRC, and COVID-GBM. We also provide an example script which trains and evalutes our models using randomly generated labels and images.
 
