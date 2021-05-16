@@ -51,11 +51,11 @@ If you found this code useful, please cite our paper:
 
 **An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department**\
 Farah E. Shamout, Yiqiu Shen, Nan Wu, Aakash Kaku, Jungkyu Park, Taro Makino, Stanisław Jastrzębski, Jan Witowski, Duo Wang, Ben Zhang, Siddhant Dogra, Meng Cao, Narges Razavian, David Kudlowitz, Lea Azour, William Moore, Yvonne W. Lui, Yindalon Aphinyanaphongs, Carlos Fernandez-Granda, Krzysztof J. Geras\
-arXiv:2008.01774, 2020.
+npj Digital Medicine, 2021.
     
     @article{shamout2020an, 
     title={An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department},
         author={Shamout, Farah E and Shen, Yiqiu and Wu, Nan and Kaku, Aakash and Park, Jungkyu and Makino, Taro and Jastrzębski, Stanisław and Witowski, Jan and Wang, Duo and Zhang, Ben and Dogra, Siddhant and Cao, Meng and Razavian, Narges and Kudlowitz, David and Azour, Lea and Moore, William and Lui, Yvonne W. and Aphinyanaphongs, Yindalon and Fernandez-Granda, Carlos and Geras, Krzysztof J},
-        journal={arXiv:2008.01774},
-        year={2020}}
+        journal={npj Digital Medicine},
+        year={2021}}
 
